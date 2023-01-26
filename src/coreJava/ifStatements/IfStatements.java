@@ -7,6 +7,7 @@ public class IfStatements {
         //If statement is used for evaluating conditions, if there is one condition we use single If Statement
         // If and else is used if we have two possible conditions
         // Multi-branch If Statement, we use it when we create conditions for more than 2 possible outcomes.
+        //Nested If can be used to create pre-condition.
 
         int score = 45;
 
