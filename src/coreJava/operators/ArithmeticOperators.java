@@ -1,4 +1,4 @@
-package coreJava;
+package coreJava.operators;
 
 public class ArithmeticOperators {
 
