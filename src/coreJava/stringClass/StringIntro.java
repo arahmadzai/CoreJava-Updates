@@ -1,6 +1,6 @@
 package coreJava.stringClass;
 
-public class StringPractice1 {
+public class StringIntro {
 
     public static void main(String[] args) {
 
