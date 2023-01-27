@@ -19,6 +19,9 @@ public class Cat {
         has4legs = true;
     }
 
+    public Cat() {
+    }
+
     public Cat(String name, String breed, String color, char size, int age) {
         this.name = name;
         this.breed = breed;
@@ -37,6 +40,14 @@ public class Cat {
 
     public static int CatCount(int Cat1, int Cat2){
         return Cat1 + Cat2;
+    }
+
+    public void setInfo(String name, String breed, String color, char size, int age) {
+        this.name = name;
+        this.breed = breed;
+        this.color = color;
+        this.size = size;
+        this.age = age;
     }
 
     @Override
