@@ -1,4 +1,4 @@
-package coreJava;
+package coreJava.classesAndObjects;
 
 public class HelloWorld {
 
